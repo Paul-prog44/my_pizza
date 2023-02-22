@@ -63,6 +63,7 @@ RECIPES = {
     'hawaienne' : {
         'ingredients': {'parmesan': 3, 'basil': 4, 'oregano': 3},
         'price': 15,
+        'sauce': 'tomato'
     }
 
 }
