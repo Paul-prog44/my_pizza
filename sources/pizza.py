@@ -35,5 +35,10 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'hawaienne' : {
+        'ingredients': {'parmesan': 3, 'basil': 4, 'oregano': 3},
+        'price': 15,
     }
+
 }
